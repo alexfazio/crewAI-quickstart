@@ -4,7 +4,7 @@ Welcome to my CrewAI learning and testing repository! This project aims to provi
 
 Each notebook focuses on a specific topic or use case, providing explanations, code examples, and insights.
 
-I've started with **sequential** CrewAI examples, but I plan to add other crew setups soon, such as hierarchical and more.
+I've started with [sequential](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_quickstart.ipynb) CrewAI examples, but I plan to add other crew setups soon, such as hierarchical and more.
 
 ## Contributing
 
