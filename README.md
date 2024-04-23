@@ -1,6 +1,8 @@
 # Unofficial Quickstart Notebooks & More for CrewAI
 
-Welcome to my CrewAI learning and testing repository! This project aims to provide helpful Google Colab notebooks to get started with CrewAI quickly.
+Welcome to my CrewAI learning and testing repository! 
+
+This small project is designed to offer useful Google Colab notebooks for a quick start with CrewAI.
 
 Each notebook focuses on a specific topic or use case, providing explanations, code examples, and insights.
 
