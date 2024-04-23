@@ -1,10 +1,8 @@
-# Unofficial Quickstart Notebooks & More for CrewAI
-
-Welcome to my CrewAI learning and testing repository! 
+# Unofficial Quickstart Notebooks for CrewAI
 
 This small project is designed to offer useful Google Colab notebooks for a quick start with CrewAI.
 
-Each notebook focuses on a specific topic or use case, providing explanations, code examples, and insights.
+Each notebook focuses on a specific topic or use case.
 
 I've started with [sequential](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_quickstart.ipynb) CrewAI examples, but I plan to add other crew setups soon, such as hierarchical and more.
 
