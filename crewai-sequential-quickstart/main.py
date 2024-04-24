@@ -4,6 +4,7 @@ from decouple import config
 from textwrap import dedent
 from langchain_groq import ChatGroq
 
+# Add API key within `./.env` file
 os.environ["GROQ_API_KEY"] = config("GROQ_API_KEY")
 # os.environ["OPENAI_API_KEY"] = config("OPENAI_API_KEY")
 # ↑ uncomment to use OpenAI API
