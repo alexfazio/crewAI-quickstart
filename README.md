@@ -1,10 +1,10 @@
-# Unofficial Quickstart Notebooks for CrewAI
+# CrewAI `quickstart`
 
 <div align="center">
   <img src="https://i.imgur.com/RC1F7xz.png" alt="Description of the image">
 </div>
 
-This small project is designed to provide useful Google Colab notebooks and projects for a quick start with CrewAI.
+This small, unofficial project is designed to offer helpful Google Colab notebooks and projects for an easy start with CrewAI.
 
 ## Contributing
 
