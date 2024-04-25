@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "crewai-hierarchical-quickstart"
+version = "0.0.1"
+description = ""
+authors = ["Alex Fazio <alessandro.fazio@me.com>"]
+
+[tool.poetry.scripts]
+crewai-hierarchical-quickstart = "main:main"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+pydantic = "*"
+crewai = "*"
+setuptools = "*"
+python-decouple = "*"
+langchain-community = "*"
+# ↑ uncomment to use OpenAI API
+# langchain_groq = "*"
+# ↑ uncomment to use Groq's API
+# langchain-anthropic = "*"
+# ↑ uncomment to use Anthropic's API
+
+[[tool.poetry.packages]]
+include = "*.py"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

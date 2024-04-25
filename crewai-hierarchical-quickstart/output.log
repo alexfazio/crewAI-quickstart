@@ -1,0 +1,17 @@
+agent=Crew Manager2024-04-25 11:34:56: task=
+A clear, concise statement of what the task entails.
+---
+VARIABLE 1: "('c',)"
+VARIABLE 2: "('c',)"
+VARIABLE 3: "('c',)"
+Add more variables if needed...
+2024-04-25 11:34:56: status=started
+agent=Crew Manager2024-04-25 11:35:39: task=my best complete final answer to the task.2024-04-25 11:35:39: status=completed
+agent=Crew Manager2024-04-25 11:35:39: task=
+A clear, concise statement of what the task entails.
+---
+VARIABLE 1: "('c',)"
+VARIABLE 2: "('c',)"
+VARIABLE 3: "('c',)"
+Add more variables if needed...
+2024-04-25 11:35:39: status=started
