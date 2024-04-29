@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/RC1F7xz.png" alt="Description of the image">
 </div>
 
-This small, unofficial project is designed to offer helpful Google Colab notebooks and projects for an easy start with CrewAI.
+This small, unofficial project is designed to offer helpful starter templates for an easy start with CrewAI.
 
 :star: **Don't forget to leave a star if you find this useful!** :star:
 
