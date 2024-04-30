@@ -16,7 +16,7 @@ This small, unofficial project is designed to offer helpful starter templates fo
 - [Hierarchical Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_hierarchical_quickstart.ipynb)
 
 ### :notebook: Notebooks :wrench: Tool Use
-- [Sequential Web Search (SerperDevTool) Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_websearch_quickstart.ipynb)
+- [Sequential Web Search (SerperDevTool) Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SerperDevTool_quickstart.ipynb)
 - :new: [Sequential CSVSearchTool Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_CSVSearchTool_quickstart.ipynb)
 
 ### :snake: `.py`
