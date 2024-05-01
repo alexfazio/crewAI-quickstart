@@ -24,6 +24,7 @@ This small, unofficial project is designed to offer helpful starter templates fo
 - :new: [Sequential XML Search (XMLSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_XMLSearchTool_quickstart.ipynb)
 - :new: [Sequential JSON Search (XMLSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_JSONSearchTool_quickstart.ipynb)
 - :new: [Sequential DOCX Search (DOCXSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DOCXSearchTool_quickstart.ipynb)
+- :new: [Sequential MDX Search (MDXSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_MDXSearchTool_quickstart.ipynb)
 
 ### :snake: `.py`
 
