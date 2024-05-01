@@ -21,6 +21,7 @@ This small, unofficial project is designed to offer helpful starter templates fo
 - [Sequential Web Scraping (ScrapeWebsiteTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_ScrapeWebsiteTool_quickstart.ipynb)
 - :new: [Sequential PDF Search (PDFSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_PDFSearchTool_quickstart.ipynb)
 - :new: [Sequential `.txt` Search (TXTSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_TXTSearchTool_quickstart.ipynb)
+- :new: [Sequential `.xml` Search (XMLSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_XMLSearchTool_quickstart.ipynb)
 
 ### :snake: `.py`
 
