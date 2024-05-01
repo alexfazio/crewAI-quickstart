@@ -17,8 +17,9 @@ This small, unofficial project is designed to offer helpful starter templates fo
 
 ### :notebook: Notebooks :wrench: Tool Use
 - [Sequential Web Search (SerperDevTool) Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SerperDevTool_quickstart.ipynb)
-- :new: [Sequential CSV lookup (CSVSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_CSVSearchTool_quickstart.ipynb)
-- :new: [Sequential Web Scraping (ScrapeWebsiteTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_ScrapeWebsiteTool_quickstart.ipynb)
+- [Sequential CSV lookup (CSVSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_CSVSearchTool_quickstart.ipynb)
+- [Sequential Web Scraping (ScrapeWebsiteTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_ScrapeWebsiteTool_quickstart.ipynb)
+- :new: [Sequential PDF Search (PDFSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_PDFSearchTool_quickstart.ipynb)
 
 ### :snake: `.py`
 
