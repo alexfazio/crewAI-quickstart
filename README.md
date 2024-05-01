@@ -11,7 +11,7 @@ This small, unofficial project is designed to offer helpful starter templates fo
 ### What is CrewAI?
 Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 
-## Templates
+## Quickstart Templates
 
 ### :notebook: Notebooks
 
