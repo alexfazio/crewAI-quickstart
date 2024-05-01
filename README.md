@@ -8,6 +8,9 @@ This small, unofficial project is designed to offer helpful starter templates fo
 
 :star: **Don't forget to leave a star if you find this useful!** :star:
 
+### What is CrewAI?
+Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
+
 ## Templates
 
 ### :notebook: Notebooks
