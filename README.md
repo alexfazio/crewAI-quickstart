@@ -32,6 +32,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - :new: [Sequential Website Search (WebsiteSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_WebsiteSearchTool_quickstart.ipynb)
 - :new: [Sequential GitHub Search (GithubSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_GithubSearchTool_quickstart.ipynb)
 - :new: [Sequential YouTube Video Search (YoutubeVideoSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_YoutubeVideoSearchTool_quickstart.ipynb)
+- :new: [Sequential YouTube Channel Search (YoutubeChannelSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_YoutubeChannelSearchTool_quickstart.ipynb)
 
 ### :snake: `.py`
 
