@@ -29,6 +29,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - :new: [Sequential DOCX Search (DOCXSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DOCXSearchTool_quickstart.ipynb)
 - :new: [Sequential MDX Search (MDXSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_MDXSearchTool_quickstart.ipynb)
 - :new: [Sequential PostgreSQL Search (PGSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_PGSearchTool_quickstart.ipynb)
+- :new: [Sequential Website Search (WebsiteSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_WebsiteSearchTool_quickstart.ipynb)
 
 ### :snake: `.py`
 
