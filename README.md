@@ -46,6 +46,10 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - [Streamlit GUI Sequential](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-streamlit-sequential-quickstart)
 - [Streamlit GUI Hierarchical](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-hierarchical-quickstart)
 
+### 🦙 Local LLMs
+
+- [Sequential Ollama with `llama2`](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai-sequential-ollama2-quickstart/CHEATSHEET.md)
+
 ## Contributing
 
 Contributions are welcome! If you have ideas, improvements, or new notebooks to add, please submit a pull request.
