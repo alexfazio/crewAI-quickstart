@@ -1,5 +1,3 @@
-![img.png](img.png)
-
 ### Cheatsheet
 
 1. Dowload and install Ollama →  https://ollama.com/download or `$ brew install ollama`
@@ -12,3 +10,5 @@ OPENAI_API_KEY=''
 3. `$ cd crewai-sequential-ollama2-quickstart`
 
 8. `$ poetry install`
+
+![03-05-2024_08-32-24](https://github.com/alexfazio/crewAI-quickstart/assets/34505954/e1c25feb-652e-484f-8084-ba1d12920bc7)
