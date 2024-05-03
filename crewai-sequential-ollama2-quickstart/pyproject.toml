@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "crewai-sequential-ollama2-quickstart"
+version = "0.0.1"
+description = ""
+authors = ["Alex Fazio <alessandro.fazio@me.com>"]
+
+[tool.poetry.scripts]
+crewai-sequential-ollama2-quickstart = "main:main"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+pydantic = "*"
+crewai = "*"
+setuptools = "*"
+python-decouple = "*"
+langchain-community = "*"
+langchain_groq = "*"
+ollama = "*"
+
+[[tool.poetry.packages]]
+include = "*.py"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
