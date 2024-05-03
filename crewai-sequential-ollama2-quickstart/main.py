@@ -8,6 +8,7 @@ import ollama
 # ↑ uncomment to use Groq's API
 # from langchain_community.llms import Ollama
 from langchain_openai import ChatOpenAI
+from langchain_community.llms import Ollama
 
 # Add API key within `./.env` file
 # os.environ["GROQ_API_KEY"] = config("GROQ_API_KEY")
@@ -32,12 +33,7 @@ SYSTEM """"""
 
 ollama.create(model='crewai-llama2', modelfile=modelfile)
 
-# ollama.pull('crewai-llama2')
-
-ollama2 = ChatOpenAI(
-    model = "crewai-llama2",
-    base_url = "http://localhost:11434/v1")
-
+ollama2 = Ollama(model="crewai-llama2")
 
 print("## Welcome to the YOUR_CREW_NAME")
 print('-------------------------------------------')
