@@ -41,12 +41,12 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - [Sequential](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-sequential-quickstart)
 - [Hierarchical](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-hierarchical-quickstart)
 
-### 🖼️ GUI
+### 🖼️ GUI w/ Streamlit `.py`
 
 - [Streamlit GUI Sequential](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-streamlit-sequential-quickstart)
 - [Streamlit GUI Hierarchical](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-hierarchical-quickstart)
 
-### 🦙 Local LLMs
+### 🦙 Local LLMs `.py`
 
 - [Sequential Ollama with `llama2`](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-sequential-ollama2-quickstart)
 - [Sequential Ollama with `llama3`](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-sequential-ollama3-quickstart)
