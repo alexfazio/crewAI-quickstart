@@ -49,6 +49,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 ### 🦙 Local LLMs
 
 - [Sequential Ollama with `llama2`](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-sequential-ollama2-quickstart)
+- [Sequential Ollama with `llama3`](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-sequential-ollama3-quickstart)
 
 ## Contributing
 
