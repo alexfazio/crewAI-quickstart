@@ -4,7 +4,7 @@
 
 2. Ensure these are your variables within `crewai-sequential-ollama2-quickstart/.env`:
 ```python
-OPENAI_API_KEY=''
+OPENAI_API_KEY="NA"
 ```
 
 3. `$ cd crewai-sequential-ollama2-quickstart`
