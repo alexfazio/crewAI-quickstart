@@ -1,22 +1,15 @@
-import os
 from crewai import Agent, Task, Crew, Process
-from decouple import config
 from textwrap import dedent
 import ollama
-# from ollama import Client
+from dotenv import load_dotenv
 # from langchain_groq import ChatGroq
 # ↑ uncomment to use Groq's API
 # from langchain_community.llms import Ollama
 from langchain_openai import ChatOpenAI
 from langchain_community.llms import Ollama
 
-# Add API key within `./.env` file
-# os.environ["GROQ_API_KEY"] = config("GROQ_API_KEY")
-# ↑ uncomment to use Groq's API
-# os.environ["OPENAI_API_KEY"] = config("OPENAI_API_KEY")
-# ↑ uncomment to use OpenAI API
-os.environ["OPENAI_API_KEY"] = config("OPENAI_API_KEY")
-# ↑ uncomment to use Ollama
+# Add API keys within `./.env` file
+load_dotenv()
 
 modelfile='''
 FROM llama3
