@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "crewai-sequential-kickstart"
+name = "crewai-sequential-quickstart"
 version = "0.0.1"
 description = ""
 authors = ["Alex Fazio <alessandro.fazio@me.com>"]
 
 [tool.poetry.scripts]
-crewai-sequential-kickstart = "main:main"
+crewai-sequential-quickstart = "main:main"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<=3.13"
