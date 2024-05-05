@@ -55,6 +55,9 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 
 Contributions are welcome! If you have ideas, improvements, or new notebooks to add, please submit a pull request.
 
+## Credits
+Thanks to [@AbubakrChan](https://github.com/AbubakrChan) for his contribution to the **GUI 🖼️ GUI w/ Streamlit `.py`** templates.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
