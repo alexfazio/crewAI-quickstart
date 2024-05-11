@@ -20,8 +20,8 @@ PARAMETER stop Result
 # Leaving it blank for now.
 SYSTEM """"""
 # More guidance on customising your `.modelfile` ↓
-# here: https://discord.com/channels/@me/1235458285566562306/1235968608287592519
-# and here: https://discord.com/channels/@me/1235458285566562306/123596879874647661
+# here: https://tinyurl.com/2688vcnx
+# and here: https://tinyurl.com/29e4wmv8
 '''
 
 ollama.create(model='crewai-llama2', modelfile=modelfile)
