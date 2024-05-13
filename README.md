@@ -25,7 +25,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - [Sequential PDF Search (PDFSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_PDFSearchTool_quickstart.ipynb)
 - [Sequential `.txt` Search (TXTSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_TXTSearchTool_quickstart.ipynb)
 - [Sequential XML Search (XMLSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_XMLSearchTool_quickstart.ipynb)
-- [Sequential JSON Search (XMLSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_JSONSearchTool_quickstart.ipynb)
+- [Sequential JSON Search (JSONSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_JSONSearchTool_quickstart.ipynb)
 - [Sequential DOCX Search (DOCXSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DOCXSearchTool_quickstart.ipynb)
 - [Sequential MDX Search (MDXSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_MDXSearchTool_quickstart.ipynb)
 - [Sequential PostgreSQL Search (PGSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_PGSearchTool_quickstart.ipynb)
