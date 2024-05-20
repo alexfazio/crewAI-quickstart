@@ -19,7 +19,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - [Hierarchical Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_hierarchical_quickstart.ipynb)
 
 ### :notebook: Notebooks :wrench: Tool Use
-- [Sequential Web Search (SerperDevTool) Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SerperDevTool_quickstart.ipynb)
+- [Sequential Web Search (SerperDevTool) Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SerperDevTool_quickstart.ipynb)
 - [Sequential CSV lookup (CSVSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_CSVSearchTool_quickstart.ipynb)
 - [Sequential Web Scraping (ScrapeWebsiteTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_ScrapeWebsiteTool_quickstart.ipynb)
 - [Sequential PDF Search (PDFSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_PDFSearchTool_quickstart.ipynb)
@@ -35,7 +35,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - [Sequential YouTube Channel Search (YoutubeChannelSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_YoutubeChannelSearchTool_quickstart.ipynb)
 - [Sequential Headless Browser (BrowserbaseLoadTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_BrowserbaseLoadTool_quickstart.ipynb)
 - [Sequential Web Scraping (SeleniumScrapingTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SeleniumScrapingTool_quickstart.ipynb)
-- [Sequential Directory Read Tool (DirectoryReadTool) Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DirectoryReadTool_quickstart.ipynb)
+- [Sequential Directory Read Tool (DirectoryReadTool) Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DirectoryReadTool_quickstart.ipynb)
 
 ### :snake: `.py`
 
