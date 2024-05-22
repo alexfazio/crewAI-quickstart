@@ -39,6 +39,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 
 ### :notebook: Extra Notebooks 
 - [Custom Tool Template | Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DirectoryReadTool_quickstart.ipynb)
+- [Example Task Event Planning | Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai-example-task-event-planning-quickstart.ipynb)
 
 ### :snake: `.py`
 
