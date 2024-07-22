@@ -36,6 +36,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - [Sequential Headless Browser (BrowserbaseLoadTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_BrowserbaseLoadTool_quickstart.ipynb)
 - [Sequential Web Scraping (SeleniumScrapingTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SeleniumScrapingTool_quickstart.ipynb)
 - [Sequential Directory Read Tool (DirectoryReadTool) Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_custom_tool_template_quickstart.ipynb))
+- [Sequential Composio SDK Tool (ComposioTool) Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DirectoryReadTool_quickstart.ipynb))
 
 ### :notebook: Extra Notebooks 
 - [Custom Tool Template | Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_custom_tool_template_quickstart.ipynb)
