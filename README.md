@@ -20,9 +20,9 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 
 ### :notebook: Notebooks :wrench: Tool Use
 - [Sequential `.txt` Search (TXTSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_TXTSearchTool_quickstart.ipynb)
-- [Sequential Composio SDK Tool (ComposioTool) Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_composio_core_quickstart.ipynb)
+- [Sequential Composio SDK Tool (ComposioTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_composio_core_quickstart.ipynb)
 - [Sequential CSV lookup (CSVSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_CSVSearchTool_quickstart.ipynb)
-- [Sequential Directory Read Tool (DirectoryReadTool) Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DirectoryReadTool_quickstart.ipynb)
+- [Sequential Directory Read Tool (DirectoryReadTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DirectoryReadTool_quickstart.ipynb)
 - [Sequential DOCX Search (DOCXSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DOCXSearchTool_quickstart.ipynb)
 - [Sequential GitHub Search (GithubSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_GithubSearchTool_quickstart.ipynb)
 - [Sequential Headless Browser (BrowserbaseLoadTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_BrowserbaseLoadTool_quickstart.ipynb)
@@ -32,7 +32,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 - [Sequential PostgreSQL Search (PGSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_PGSearchTool_quickstart.ipynb)
 - [Sequential Web Scraping (ScrapeWebsiteTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_ScrapeWebsiteTool_quickstart.ipynb)
 - [Sequential Web Scraping (SeleniumScrapingTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SeleniumScrapingTool_quickstart.ipynb)
-- [Sequential Web Search (SerperDevTool) Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SerperDevTool_quickstart.ipynb)
+- [Sequential Web Search (SerperDevTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_SerperDevTool_quickstart.ipynb)
 - [Sequential Website Search (WebsiteSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_WebsiteSearchTool_quickstart.ipynb)
 - [Sequential XML Search (XMLSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_XMLSearchTool_quickstart.ipynb)
 - [Sequential YouTube Channel Search (YoutubeChannelSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_YoutubeChannelSearchTool_quickstart.ipynb)
