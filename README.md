@@ -20,6 +20,7 @@ Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
 
 ### :notebook: Notebooks :wrench: Tool Use
 - [Sequential `.txt` Search (TXTSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_TXTSearchTool_quickstart.ipynb)
+- [Sequential Code Docs Search Tool (CodeDocsSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_CodeDocsSearchTool_quickstart.ipynb)
 - [Sequential Composio SDK Tool (ComposioTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_composio_core_quickstart.ipynb)
 - [Sequential CSV lookup (CSVSearchTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_CSVSearchTool_quickstart.ipynb)
 - [Sequential Directory Read Tool (DirectoryReadTool) Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_DirectoryReadTool_quickstart.ipynb)
