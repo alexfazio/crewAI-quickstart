@@ -16,7 +16,7 @@ To make the most of the examples in this quickstart guide, you'll need to be fam
 ## Table of Contents
 
 - [Quickstart Templates](#quickstart-templates)
-  - [Notebooks](#notebooks)
+  - [Basic Notebooks](#notebooks)
   - [Notebooks with Tool Use](#notebooks-with-tool-use)
   - [Extra Notebooks](#extra-notebooks)
   - [Python Scripts](#python-scripts)
