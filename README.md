@@ -8,9 +8,8 @@ CrewAI Quickstart provides code templates and guides designed to help developers
 
 ## Prerequisites
 
-To make the most of the examples in this quickstart guide, you'll need to be familiar with CrewAI. Check out CrewAI's official repo [here](https://github.com/joaomdmoura/crewAI).
+To make the most of the examples in this quickstart guide, you'll need to be familiar with CrewAI. We recommend reviewing the official CrewAI documentation at https://docs.crewai.com/ to understand the basic concepts and functionality. You'll also need an API key from one of the major Language Model providers such as Anthropic, OpenAI, Groq, or Cohere.
 
-While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with CrewAI.
 
 ## Table of Contents
 
