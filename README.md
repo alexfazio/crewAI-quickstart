@@ -28,7 +28,7 @@ To make the most of the examples in this quickstart guide, you'll need to be fam
 
 ## Quickstart Templates
 
-### Notebooks
+### Basic Notebooks
 
 - [Sequential Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_sequential_quickstart.ipynb)
 - [Hierarchical Google Colab Notebook](https://github.com/alexfazio/crewAI-quickstart/blob/main/crewai_hierarchical_quickstart.ipynb)
