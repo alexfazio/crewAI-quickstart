@@ -1,10 +1,12 @@
-# CrewAI Quickstart
+<a href="https://cookbook.openai.com" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/crewai-quick-start-cover.png">
+    <img alt="OpenAI Cookbook Logo" src="images/crewai-quick-start-cover.png" width="400px" style="max-width: 100%; margin-bottom: 20px;">
+  </picture>
+</a>
 
 CrewAI Quickstart provides code templates and guides designed to help developers build with CrewAI, offering copy-able code snippets that you can easily integrate into your own projects.
 
-<div align="center">
-  <img src="https://i.imgur.com/RC1F7xz.png" alt="CrewAI Logo">
-</div>
 
 ## Prerequisites
 
