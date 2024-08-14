@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_community.llms import Ollama
 
-# Add API keys within `./.env` file
+# Add API keys within `./.env.example.example.example.example` file
 load_dotenv()
 
 modelfile='''
@@ -189,7 +189,7 @@ def main():
     crew = Crew(
         agents=[agent_1, agent_2, agent_3],
         tasks=[task_1, task_2, task_3],
-        verbose=2,  # You can set it to 1 or 2 to different logging levels
+        verbose=True,  # You can set it to True or False
         # ↑ indicates the verbosity level for logging during execution.
         process=Process.sequential
         # ↑ the process flow that the crew will follow (e.g., sequential, hierarchical).

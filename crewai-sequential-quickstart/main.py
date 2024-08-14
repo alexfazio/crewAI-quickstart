@@ -4,7 +4,7 @@ from decouple import config
 from textwrap import dedent
 from langchain_groq import ChatGroq
 
-# Add API key within `./.env` file
+# Add API key within `./.env.example.example.example.example` file
 os.environ["GROQ_API_KEY"] = config("GROQ_API_KEY")
 # os.environ["OPENAI_API_KEY"] = config("OPENAI_API_KEY")
 # ↑ uncomment to use OpenAI API
@@ -168,7 +168,7 @@ def main():
     crew = Crew(
         agents=[agent_1, agent_2, agent_3],
         tasks=[task_1, task_2, task_3],
-        verbose=2,  # You can set it to 1 or 2 to different logging levels
+        verbose=True,  # You can set it to True or False
         # ↑ indicates the verbosity level for logging during execution.
         process=Process.sequential
         # ↑ the process flow that the crew will follow (e.g., sequential, hierarchical).

@@ -206,7 +206,7 @@ def main():
             crew = Crew(
                 agents=[agent_1, agent_2, agent_3],
                 tasks=[task_1, task_2, task_3],
-                verbose=2,  # You can set it to 1 or 2 to different logging levels
+                verbose=True,  # You can set it to True or False
                 # ↑ indicates the verbosity level for logging during execution.
                 process=Process.hierarchical,
                 # ↑ the process flow that the crew will follow (e.g., sequential, hierarchical).

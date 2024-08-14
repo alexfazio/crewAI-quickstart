@@ -9,7 +9,7 @@ from langchain_community.chat_models import ChatOpenAI
 # from langchain_anthropic import ChatAnthropic
 # ↑ uncomment to use Antrhopic's API
 
-# Add API key within `./.env` file
+# Add API key within `./.env.example.example.example.example` file
 os.environ["OPENAI_API_KEY"] = config("OPENAI_API_KEY")
 # ↑ uncomment to use OpenAI's API
 # os.environ["GROQ_API_KEY"] = config("GROQ_API_KEY")
@@ -184,7 +184,7 @@ def main():
     crew = Crew(
         agents=[agent_1, agent_2, agent_3],
         tasks=[task_1, task_2, task_3],
-        verbose=2,  # You can set it to 1 or 2 to different logging levels
+        verbose=True,  # You can set it to True or False
         # ↑ indicates the verbosity level for logging during execution.
         process=Process.hierarchical,
         # ↑ the process flow that the crew will follow (e.g., sequential, hierarchical).

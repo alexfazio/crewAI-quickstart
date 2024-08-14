@@ -197,7 +197,7 @@ def main():
             crew = Crew(
                 agents=[agent_1, agent_2, agent_3, ],
                 tasks=[task_1, task_2, task_3],
-                verbose=2,
+                verbose=True,  # You can set it to True or False
                 process=Process.sequential
             )
             # result = crew.kickoff()
