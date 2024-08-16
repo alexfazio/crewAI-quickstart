@@ -5,6 +5,8 @@
   </picture>
 </a>
 
+[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=crewAI-quickstart)
+
 CrewAI Quickstart provides code templates and guides designed to help developers build with CrewAI, offering copy-able code snippets that you can easily integrate into your own projects.
 
 
