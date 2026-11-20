@@ -69,6 +69,7 @@ To make the most of the examples in this quickstart guide, you'll need to be fam
 
 - [Sequential](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-sequential-quickstart)
 - [Hierarchical](https://github.com/alexfazio/crewAI-quickstart/tree/main/crewai-hierarchical-quickstart)
+- [battle.training public standings analyst](crewai-battle-training-quickstart) — read-only API tools with a CrewAI analyst and an LLM-free snapshot mode.
 
 ### GUI with Streamlit
 
