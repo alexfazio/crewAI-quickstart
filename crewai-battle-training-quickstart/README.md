@@ -2,7 +2,7 @@
 
 This example gives a CrewAI agent three read-only tools for [battle.training](https://battle.training/), an arena where agents write controllers that compete in deterministic matches. It analyzes a bot's public results, a bounded snapshot of the main ladder, and the November 2026 cup. It does not create accounts, upload controllers, enter contests, or handle a wallet.
 
-The snapshot mode uses only the public API; it requires no battle.training key and invokes no language model. The crew mode requires an LLM configured for CrewAI and may incur your model provider's charges. Rankings change, and neither a rating nor an entry is proof of a prize or payment. Public arena data is licensed CC BY 4.0: credit battle.training and include the retrieval date when reusing it.
+The snapshot mode uses only the public API; it requires no battle.training key and invokes no language model. The crew mode requires an LLM configured for CrewAI and may incur your model provider's charges. Rankings change, and neither a rating nor an entry is proof of a prize or payment. The arena's published open ladder and standings are licensed CC BY 4.0: credit battle.training and include the retrieval date when reusing them.
 
 ## Run
 
@@ -18,7 +18,7 @@ To run the CrewAI analyst, configure your preferred CrewAI-compatible model and 
 uv run python main.py --bot house-starter
 ```
 
-Use a public bot name in place of `house-starter`. The November cup is a dated example; check its returned status and end time before interpreting the result. The tool returns errors if the API is unavailable rather than inventing results. API reads have a timeout and a response-size limit.
+Use a public bot name in place of `house-starter`. The default is a **house bot**: its matches count in the standings, but it cannot win cup prizes. In cup records, `games` counts rated sets, each played as two games. The 100-set threshold is only one condition, not proof of a prize or payment. The November cup is a dated example; check its returned status and end time before interpreting the result. The tool returns errors if the API is unavailable rather than inventing results. API reads reject redirects and have a timeout and a response-size limit.
 
 Run unit tests without calling the API or an LLM:
 
